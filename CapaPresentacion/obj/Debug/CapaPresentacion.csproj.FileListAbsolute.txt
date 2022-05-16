@@ -95,9 +95,6 @@ C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPrese
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
-C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
-C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
-C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaNegocio.dll
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
@@ -180,5 +177,13 @@ C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPrese
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
-C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
-C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ReservacionHotelera.exe.config
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ReservacionHotelera.exe.manifest
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ReservacionHotelera.application
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ReservacionHotelera.exe
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ReservacionHotelera.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\ReservacionHotelera.TrustInfo.xml
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\ReservacionHotelera.exe.manifest
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\ReservacionHotelera.application
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\ReservacionHotelera.exe
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\ReservacionHotelera.pdb

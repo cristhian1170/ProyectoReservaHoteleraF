@@ -6,7 +6,7 @@ namespace CapaDatos
 {  public class CD_Conexion
     {
 
-        private SqlConnection conexion = new SqlConnection(@"Data Source = DESKTOP-6DNDTP0\SQLEXPRESS;Initial Catalog =ReservasHotel; Integrated Security = True");
+        private SqlConnection conexion = new SqlConnection(@"Data Source = (local)\SQLEXPRESS;Initial Catalog =ReservasHotel; Integrated Security = True");
 
         public SqlConnection Conexion { get => conexion; set => conexion = value; }
 
