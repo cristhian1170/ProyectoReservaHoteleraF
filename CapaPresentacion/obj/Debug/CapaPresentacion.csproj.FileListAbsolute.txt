@@ -1,0 +1,184 @@
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormFiltrarReserva.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormCafeteriaMarte.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormReportesReservas.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormAdministradores.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantUser.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormUsuario.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormHoteles.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantAdministradores.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantHotel.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantCliente.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantHabitacion.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantReserva.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantTipoHabitacion.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservas.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.FormTipoHabitaciones.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\EnvDTE.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\stdole.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\CapaDatos.dll.config
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormAdministradores.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormClientes.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormFiltrarReserva.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormHabitaciones.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormHoteles.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantAdministradores.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantCliente.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantHabitacion.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantHotel.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantReserva.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantTipoHabitacion.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormMantUser.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormCafeteriaMarte.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormReportesReservas.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormReservas.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormTipoHabitaciones.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.FormUsuario.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

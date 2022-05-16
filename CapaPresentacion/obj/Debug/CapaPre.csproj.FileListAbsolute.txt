@@ -1,0 +1,8 @@
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.csproj.AssemblyReference.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.FormFiltrarReserva.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.FormReportesReservas.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.Properties.Resources.resources
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.csproj.GenerateResource.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\RdlCompile.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\RdlCompile.compiled
+C:\Users\yerlin022\source\repos\ProyectoReservaHotelera\CapaPre\obj\Debug\CapaPre.csproj.CoreCompileInputs.cache

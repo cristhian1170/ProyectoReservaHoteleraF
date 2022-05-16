@@ -1,0 +1,54 @@
+c:\users\yerlin\documents\visual studio 2015\Projects\GestionTutorias01\CapaDatos\bin\Debug\CapaDatos.dll
+c:\users\yerlin\documents\visual studio 2015\Projects\GestionTutorias01\CapaDatos\bin\Debug\CapaDatos.pdb
+c:\users\yerlin\documents\visual studio 2015\Projects\GestionTutorias01\CapaDatos\obj\Debug\CapaDatos.dll
+c:\users\yerlin\documents\visual studio 2015\Projects\GestionTutorias01\CapaDatos\obj\Debug\CapaDatos.pdb
+c:\users\yerlin\documents\visual studio 2015\Projects\GestionTutorias01\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\yerlin\Documents\Visual Studio 2015\Projects\GestionTutorias01\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\edwin\Desktop\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\yerlin\Documents\PROYECTOFINALTUTORIAS\FULL NEW PROYECT\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yerlin022\Documents\ITSCProyectoTutoriasAcademicas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\yerlin022\Documents\GestionTutoriasAcademicasITSC\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\yerlin022\source\repos\ProyectoReservaHoteleraX\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\crist\Documents\Repositorio Personal\ProyectoReservaHoteleraF\CapaDatos\obj\Debug\CapaDatos.pdb
